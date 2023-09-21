@@ -36,14 +36,10 @@ h1 {
 img {
     max-width: 100%;
     height: auto;
+    border: 7px solid black;
 }
 
 #jokeText {
-    font-style: italic;
-}
-
-.font-change {
-    font-family: 'DDT Condensed', sans-serif;
     font-style: italic;
 }
 

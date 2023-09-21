@@ -24,3 +24,4 @@ document.getElementById("randomJokeBtn").addEventListener("click", function () {
             console.error("Feil ved henting av vits:", error);
         });
 });
+ 
